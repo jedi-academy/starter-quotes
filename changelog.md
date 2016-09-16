@@ -6,7 +6,8 @@ addition at end
 
 ---------------------------------------------
 change log
+
 2016/09/15 5:12p.m. update changlog.md
 2016/09/15 5:13p.m. update changlog.md
-2016/09/16 2.05p.m. added Albert Einstein's photo to public/pix folder & added 
-                    his quote in Quotes.php
+2016/09/16 2.05p.m. added Albert Einstein's photo to public/pix folder & added his quote in Quotes.php
+2016/09/16 2:48p.m. update quotes.php homepage.php
