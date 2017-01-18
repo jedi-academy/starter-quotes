@@ -10,5 +10,5 @@ FIRST MATE: Arnold Myint (arnoldmyint)
 ========================================================
 Change Log: 
 ========================================================
-
-Added a change log. 
+Added a change log. (WW) 
+Changed photos and quotes (AM)
