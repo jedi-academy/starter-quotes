@@ -11,7 +11,7 @@ class Quotes extends CI_Model {
 
 	// The data comes from http://www.quotery.com/top-100-funny-quotes-of-all-time/?PageSpeed=noscript
 	var $data = array(
-		array('id' => '1', 'who' => 'Bob Monkhouse', 'mug' => 'bob-monkhouse-150x150.jpg', 'where' => '/sleep',
+		array('id' => '1', 'who' => 'Bob Monkhouse', 'mug' => 'bob-monkhouse-150x150.jpg', 'where' => '/public/pix',
 			'what' => 'When I die, I want to go peacefully like my grandfather did–in his sleep. Not yelling and screaming like the passengers in his car.'),
 		array('id' => '2', 'who' => 'Elayne Boosler', 'mug' => 'elayne-boosler-150x150.jpg', 'where' => '/lock/em/up',
 			'what' => 'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.'),
@@ -22,7 +22,9 @@ class Quotes extends CI_Model {
 		array('id' => '5', 'who' => 'Socrates', 'mug' => 'socrates-150x150.jpg', 'where' => '/wise/bingo',
 			'what' => 'By all means, marry. If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.'),
 		array('id' => '6', 'who' => 'Isaac Asimov', 'mug' => 'isaac-asimov-150x150.jpg', 'where' => '/comp4711/wisdom',
-			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.')
+			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.'),
+                array('id' => '7', 'who' => 'Vancouver Canucks', 'mug' => 'canucks-150x150.jpg', 'where' => '/canucks',
+			'what' => 'Go Canucks Go')
 	);
 
 	// Constructor
