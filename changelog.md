@@ -12,3 +12,4 @@ Change Log:
 ========================================================
 
 Added a change log. 
+Added quotes on the images
