@@ -13,3 +13,6 @@ to preload the template parser library, the url helper, and the Quotes model.
 
 Configure your web server or virtual host so that your project's
 document root maps to this **public** folder inside your project.
+
+4G Group 10 
+Jake Kim, Karandip Parmar
