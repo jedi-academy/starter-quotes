@@ -11,7 +11,7 @@ class Quotes extends CI_Model {
 
 	// The data comes from http://www.quotery.com/top-100-funny-quotes-of-all-time/?PageSpeed=noscript
 	var $data = array(
-		array('id' => '1', 'who' => 'Bob Monkhouse', 'mug' => 'bob-monkhouse-150x150.jpg', 'where' => '/public/pix',
+		array('id' => '1', 'who' => 'Bob Monkhouse', 'mug' => 'bob-monkhouse-150x150.jpg', 'where' => '/sleep',
 			'what' => 'When I die, I want to go peacefully like my grandfather did–in his sleep. Not yelling and screaming like the passengers in his car.'),
 		array('id' => '2', 'who' => 'Elayne Boosler', 'mug' => 'elayne-boosler-150x150.jpg', 'where' => '/lock/em/up',
 			'what' => 'I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.'),
