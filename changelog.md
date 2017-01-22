@@ -11,6 +11,10 @@ Added
     - added changelog.md file
       - inserted initials and changelog description 
 Added
+
     - img
     -fixed syntax error
+
+    -added img and quote
+
     
