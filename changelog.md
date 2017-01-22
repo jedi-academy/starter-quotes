@@ -10,5 +10,7 @@ Description: All notable changes to this project will be documented in this file
 Added
     - added changelog.md file
       - inserted initials and changelog description 
+Added
+    -added img and quote
 
     
