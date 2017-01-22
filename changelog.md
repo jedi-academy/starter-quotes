@@ -11,4 +11,7 @@ Added
     - added changelog.md file
       - inserted initials and changelog description 
 
-    
+ADDED
+    - added additional field, what to list in Welcome
+    - changed tool tip "{who}" to "{what}({who})"
+   
