@@ -15,4 +15,6 @@ ADDED
         - added initials of group members
         - added change log description 
 
-   
+ADDED
+    - added additional field, what to list in Welcome
+    - changed tool tip "{who}" to "{what}({who})"
