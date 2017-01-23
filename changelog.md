@@ -15,8 +15,15 @@ Added
     - img
     -fixed syntax error
     -added img and quote
+
+Added
+
+    -random function added
     
 Added
     - added additional field, what to list in Welcome
     - changed tool tip "{who}" to "{what}({who})"
    
+Added
+    -added random function
+
