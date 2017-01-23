@@ -29,5 +29,22 @@ class Welcome extends Application
 
 		$this->render();
 	}
+    
+	public function random()
+	{
+		
+		$this->data['pagebody'] = 'homepage';
+		
+		$ranNo = rand(1,7);
+		$source = array($this->quotes->get($ranNo));
+		$authors = array ();
+		
+		foreach ($source as $record)
+		{
+			$authors[] = array ('who' => $record['who'], 'mug' => $record['mug'], 'what' => $record['what'], 'href' => $record['where']);
+		}
+		$this->data['authors'] = $authors;
+		$this->render();
+	}
 
 }
