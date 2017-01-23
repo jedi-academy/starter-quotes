@@ -17,4 +17,5 @@ Added
 
     -added img and quote
 
-    
+Added
+    -random function added
