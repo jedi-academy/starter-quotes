@@ -8,6 +8,6 @@ Allman notation
 # Change Log
 All notable changes to this project will be documented in this file.
 
-#version 1.1
+#version 1.0
 add the avatar.jpg
 edit the quotes.php
