@@ -17,6 +17,11 @@ Added
 
     -added img and quote
 
+
+Added
+
+    -random function added
+
     
 ADDED
     - added additional field, what to list in Welcome
@@ -24,3 +29,4 @@ ADDED
    
 Added
     -added random function
+
