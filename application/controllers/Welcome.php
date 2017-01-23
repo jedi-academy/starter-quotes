@@ -10,29 +10,26 @@ class Welcome extends Application
 		parent::__construct();
 	}
 
-	/**
-	 * Homepage for our app
-         * 
-                rand(1,7)
-	 */
-        
+
         public function random()
         {
             	// this is the view we want shown
 		$this->data['pagebody'] = 'homepage';
-
 		// build the list of authors, to pass on to our view
 		$source = $this->quotes->all();
 		$authors = array ();
 		foreach ($source as $record)
 		{
-			$authors[] = array ('rand(1,7)' => $record['rand(1,7)'], 'mug' => $record['mug'], 'href' => $record['where']);
+			$authors[] = array (rand(1,7) => $record[rand(1,7)], 'mug' => $record['mug'], 'href' => $record['where']);
 		}
 		$this->data['authors'] = $authors;
-
 		$this->render();
         }
-        
+
+	/**
+	 * Homepage for our app
+	 */
+        //choose quote entries at random        
 	public function index()
 	{
 		// this is the view we want shown
