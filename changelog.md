@@ -10,6 +10,7 @@ Change Log
 
 - Created the Change log  -Sifreshz
 - Added Picture of Dostoevsky along with quote - Zwick4711
+- Tool tip was Enhanced - Sifreshz
 
 
 
