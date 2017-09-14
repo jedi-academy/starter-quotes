@@ -12,3 +12,5 @@ properly over the weeks to come :-/
 Configure your web server or virtual host so that the appropriate
 document root maps to the **public** folder inside the folder you clone
 this repository to.
+
+test changes
