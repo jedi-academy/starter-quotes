@@ -10,6 +10,12 @@ Mate 2: Nelson Guo
 
 # Change Log
 #
-# Date: 2017-09-04
- - Folked Jim's repo to team repo
+# Date: 2017-09-14
+ - Forked Jim's repo to team repo
  - Added Changelog.md file
+
+# Change Log
+#
+# Date: 2017-09-14
+ - Added Avatar
+ - Added quote
