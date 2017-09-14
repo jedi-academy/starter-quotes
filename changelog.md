@@ -29,3 +29,8 @@ Mate 2: Nelson Guo
 # Owner: Judy
 # Date: 2017-09-14
  - Added actor.php
+ 
+# Change Log
+# Owner: Nelson
+# Date: 2017-09-14
+ - Formated quotes display and show actor fields
