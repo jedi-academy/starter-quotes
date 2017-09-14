@@ -7,3 +7,4 @@ Boranbayev, Kuanysh
 CHANGELOG
 =========
 Sep 14 - Added changelog.md - Jonathan
+Sep 14 - Added new quote - Kuanysh
