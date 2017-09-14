@@ -6,13 +6,12 @@
  * and open the template in the editor.
  */
 
-/*
- * Members:
- *  Ebon
- *  Gisu
- */
 
-/*
+ * Members:
+    - Ebon
+    - Gisu
+
+
+
  * Changes (Newest First):
- *  - Added changelog.md file. (2017/09/14)
- */
+   - Added changelog.md file. (2017/09/14)
