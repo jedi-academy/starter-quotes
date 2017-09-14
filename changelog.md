@@ -6,3 +6,5 @@ Change Log:
 
 - Added in tooltip
 - Add show function, modified home page and actor view
+
+- Reformatted the actor.php page to display the info of actor and quote
