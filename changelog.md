@@ -14,5 +14,5 @@
 
 /*
  * Changes (Newest First):
- *  - Added changelog.md file.
+ *  - Added changelog.md file. (2017/09/14)
  */
