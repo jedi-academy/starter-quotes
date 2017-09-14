@@ -3,3 +3,5 @@ First Mate: Bryn Beaudry A00932262
 
 Change Log:
 -Added in the ZuckerBark quote object
+
+- Added in tooltip
