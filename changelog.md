@@ -9,13 +9,18 @@ Mate 2: Nelson Guo
 
 
 # Change Log
-#
+# Owner: Judy
 # Date: 2017-09-14
  - Forked Jim's repo to team repo
  - Added Changelog.md file
 
-# Change Log
-#
+# Change Log 
+# Owner: Benjamin
 # Date: 2017-09-14
  - Added Avatar
  - Added quote
+
+# Change Log
+# Owner: Nelson
+# Date: 2017-09-14
+ - Added tooltip
