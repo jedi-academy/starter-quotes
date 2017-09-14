@@ -25,6 +25,8 @@ class Quotes extends CI_Model
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!')
+		'7'	 => array('who'	 => 'Zhong Guan', 'role'	 => 'Prime Minister',
+			'what'	 => 'Li Yi Lian Chi are the four dimensions.')
 	);
 
 	// Constructor
