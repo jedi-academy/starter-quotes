@@ -5,3 +5,4 @@ Change Log:
 -Added in the ZuckerBark quote object
 
 - Added in tooltip
+- Add show function, modified home page and actor view
