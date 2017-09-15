@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.0.2] - 2017-09-15
 ### Added
-- Picture of Rick Sanchez and his quote
+- Picture of Rick Sanchez and his quote by @Lenic
 
 ## [0.0.1] - 2017-09-15
 ### Added
