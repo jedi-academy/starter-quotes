@@ -48,3 +48,11 @@ Versions will be added from oldest to newest.
 #Changed
 - Put image element inside anchor element in homepage.php
 - View file in Welcome.php is now actor instead of homepage
+
+## Version 1.05 - 09/15/2017
+
+#Added
+- New Madonna 'role' picture.
+
+#Changed 
+- Altered the pictures and quotes when clicking the image on homepage.
