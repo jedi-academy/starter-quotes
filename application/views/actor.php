@@ -1,9 +1,8 @@
 <div class="row">
-    {authors}
         <div class="span4">
                 <a href="/welcome/show/{key}">
-                        <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
+                        <img src="/pix/{role}.jpg" title="{who} plays {role}"/>
                 </a>
         </div>
-    {/authors}
+    <h3> {what} </h3>
 </div>
