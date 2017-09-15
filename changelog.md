@@ -9,3 +9,4 @@ ______________________________________________________
 
 **SK: 2017-09-14** Adding moused over naming
 **LH: 2017-09-14** Adding Rick Sanchez avatar with quote
+**LH: 2017-09-14** Added .gitignore
