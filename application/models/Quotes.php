@@ -25,7 +25,7 @@ class Quotes extends CI_Model
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
-		'7'	 => array('who'	 => 'Rick Sanchez', 'role'   => 'Scientist',
+		'7'	 => array('who'	 => 'RickSanchez', 'role'   => 'Scientist',
 			'what' 	 => 'What people calls "love" is just a chemical reaction that compels animals to breed')
 	);
 
