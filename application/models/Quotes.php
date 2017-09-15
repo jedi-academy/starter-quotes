@@ -11,7 +11,7 @@ class Quotes extends CI_Model
 {
 
 	// The data comes from http://www.imdb.com/title/tt0094012/
-	// expressed using long-form array notaiton in case students use PHP 5.x
+	// expressed using long-form array notation in case students use PHP 5.x
 	var $data = array(
 		'1'	 => array('who'	 => 'Mel Brooks', 'role'	 => 'Yogurt',
 			'what'	 => 'May the schwartz be with you!'),
@@ -25,7 +25,7 @@ class Quotes extends CI_Model
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
-		'7'  => array('who'  => 'Donald Trump', 'role' => 'Fake News',
+		'7'  => array('who'  => 'Donald Trump', 'role'   => 'Fake News',
 			'what'   => 'I know words. I have the best words.')
 	);
 
