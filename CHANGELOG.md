@@ -10,6 +10,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.5] - 2017-09-15
+### Changed
+- Modified views/homepage.php by @Lenic
+### Added
+- Add new show function into controllers/Welcome.php by @Lenic
+- Add actor.php by @Lenic
+
 ## [0.0.4] - 2017-09-15
 ### Added
 - Tooltip for images by @Ian
