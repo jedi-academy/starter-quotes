@@ -5,11 +5,10 @@
  * so that we don't have to worry about any database setup.
  * This would be considered a "mock database" model.
  *
- * @author jim
+ * @author jim, Lancelei, Shawn
  */
 class Quotes extends CI_Model
 {
-
 	// The data comes from http://www.imdb.com/title/tt0094012/
 	// expressed using long-form array notaiton in case students use PHP 5.x
 	var $data = array(
@@ -25,8 +24,8 @@ class Quotes extends CI_Model
 			'what'	 => 'Goodbye, virgin alarm.'),
 		'6'	 => array('who'	 => 'George Wyner', 'role'	 => 'Colonel Sandurz',
 			'what'	 => 'No, sir! I didn\'t see you playing with your dolls again!'),
-    '7'  => array('who'  => 'Rick Sanchez', 'role'      => 'Princess Vespa',
-      ' what'   => 'Wubba-lubba-dub-dub! ')
+        '7'  => array('who'  => 'Justin Roiland', 'role'   => 'Rick Sanchez',
+            'what'   => 'Wubba-lubba-dub-dub! ')
 	);
 
 	// Constructor
