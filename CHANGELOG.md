@@ -8,7 +8,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 1. Ian Park
 2. Lenic Zhang
 
-## [Unreleased]
+## [0.0.6] - 2017-09-15
+### Changed
+- Format of the quote display by @Ian
 
 ## [0.0.5] - 2017-09-15
 ### Changed
