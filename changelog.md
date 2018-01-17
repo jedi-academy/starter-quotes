@@ -10,4 +10,5 @@ Oliver\
 \
 Change Log\
 Setting up the change log file.
-added avatar and quote. }
+added avatar and quote.
+Hows this for a change.S }
