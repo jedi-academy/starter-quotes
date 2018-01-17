@@ -14,3 +14,5 @@
 2017-01-16: Mark H - Added quote to Quotes.php
 
 2017-01-16: Nathaniel Z - Added hover tooltip on images
+
+2017-01-17: Mark - Added Quote Display
