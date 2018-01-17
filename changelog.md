@@ -11,4 +11,5 @@ Rost: added branch develop
 
 Davin; forked the repo and joined the org
 Rost; did the same
+Davin; added profile picture
 
