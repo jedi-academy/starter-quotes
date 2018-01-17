@@ -1,10 +1,10 @@
-#COMP 4711 Lab 2 Changelog
+# COMP 4711 Lab 2 Changelog
 
-##Contributors:
+## Contributors:
 -Nathaniel Zeeman
 -Mark Ho
 
-##Format for changelog:
+## Format for changelog:
 [YYYY-MM-DD]: [Contributor name] - [Contribution description]
 
 ---
