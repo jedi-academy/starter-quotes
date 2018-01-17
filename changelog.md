@@ -10,4 +10,7 @@
 ---
 
 2017-01-16: Nathaniel Z - Created changelog
+
 2017-01-16: Mark H - Added quote to Quotes.php
+
+2017-01-16: Nathaniel Z - Added hover tooltip on images
