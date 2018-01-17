@@ -10,3 +10,4 @@
 ---
 
 2017-01-16: Nathaniel Z - Created changelog
+2017-01-16: Nathaniel Z - Added hover tooltip on images
