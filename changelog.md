@@ -6,19 +6,19 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.4] - 2018-01-18
+### Changed
+- added homer simpson to pix
+- added a quote to quotes.php
 
 ## [0.0.3] - 2018-01-18
 ### Changed
 - fixed the order of changelog from newest to oldest(top down)
 - changed the start version to 0.0.1 from 1.0.0
 
-
-
 ## [0.0.2] - 2018-01-18
 ### Changed
 - updated format of changelog
-
-
 
 ## [0.0.1] - 2018-01-18
 ### Added
