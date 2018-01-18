@@ -1,9 +1,13 @@
+# CHANGELOG
 Team Members:
-Delan Elliot
-Juliana French
 
+ - Delan Elliot
+ - Juliana French
 
-CHANGELOG:
-1/18/2018: added changelog and team membership
-1/18/2018: update gitignore for jetbrains IDEs
+## Changes:
+#### Jan 18th, 2018 - 1
+Added CHANGELOG.md
+Updated .gitignore to ignore jetbrains files
 
+#### Jan 18th, 2018 - 2
+Updated changelog formatting
