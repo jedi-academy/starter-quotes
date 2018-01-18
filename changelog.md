@@ -17,4 +17,5 @@ guideline:
 
 ENTRIES
 
+1/18/2018 -Quotes.php modified, bond.jpg added to public/pix -CL
 1/18/2018 -changelog.md added to the repository
