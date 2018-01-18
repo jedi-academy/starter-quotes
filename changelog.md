@@ -1,17 +1,18 @@
-Matthew 
-JC
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [1.0.0] - 2018-01-18
+### Added
+- New visual identity by Matthew and JC.
+- changelog document
 
 
-Style--------------
-Allman notation
-block comment
+## [1.0.1] - 2018-01-18
+### Changed
+- updated format of changelog
 
-
-
-
-
-
-
-
-Change Log--------------//add neweset changes to the bottom
-Matthew - added changelog.md to root project
