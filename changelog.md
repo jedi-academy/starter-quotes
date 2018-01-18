@@ -2,6 +2,9 @@
 
 Comp 4711 - Lab 2
 
+## Version 1.3
+    Added quotes to actor page.
+
 ## Version 1.2
     Added page for actor
 
