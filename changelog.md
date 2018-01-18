@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.0.6] - 2018-01-18
+###Added
+- added character role unique page
 
 ## [0.0.5] - 2018-01-18
 ###Added
