@@ -12,5 +12,8 @@ Updated .gitignore to ignore jetbrains files
 #### Jan 18th, 2018 - 2
 Updated changelog formatting
 
-#### Jan 18th, 2018 -3
+#### Jan 18th, 2018 - 3 
 Added picture of Daphne and new quote
+
+#### Jan 18th, 2018 - 4
+Added tooltip to cast photos
