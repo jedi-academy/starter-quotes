@@ -8,4 +8,4 @@ Indentation Style:
 Change Log (Additions should be added with the newest first):
   2018-01-16 - Create the changelog file
   2018-01-16 - Added new Skipper avatar and quotes
-  
+  2018-01-18 - Replaced Skipper avatar with Dark Helmet and added tooltip feature
