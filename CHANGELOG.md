@@ -6,6 +6,12 @@ Team Members:
 
 ## [Unreleased]
 
+## [0.0.5] - 2018-01-18
+### Updated
+- homepage allows one to click on pictures
+### Added
+- new actor page for displaying one cast member
+
 ## [0.0.4] - 2018-01-18
 ### Updated
 - Changelog now reads "most recent first"
