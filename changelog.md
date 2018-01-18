@@ -1,6 +1,20 @@
-Calvin Lai
-Angus Lam
+=================
+ COMP 4711 LAB 2
+=================
 
-jan 18 2018, 1:58pm
-    - created change log, added names
+TEAM MEMBERS
+	-AL
+	-CL
+-----------------------	
+CODE STYLE
+	-Allman notation
+-----------------------
+CHANGE LOG
 
+guideline: 
+	-every change needs to be dated. Time is optional.
+	-new log entries are to be added at the top of the change log.
+
+ENTRIES
+
+1/18/2018 -changelog.md added to the repository
