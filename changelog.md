@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+
+## [0.0.5] - 2018-01-18
+###Added
+- added character role tooltip for mousing over picture
+
+### Changed
+- changed homer simpson pic name from "homer-simpson" to "homer simpson"
+
+
 ## [0.0.4] - 2018-01-18
 ### Changed
 - added homer simpson to pix
