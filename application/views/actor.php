@@ -1,7 +1,5 @@
 <div class="row">
-        <div class="span4">
-                <a href="/welcome/show/{key}">
-                        <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
-                </a>
+        <div  style="background-color: blue; text-align: center" class="span4">
+                <img src="/pix/{who}.jpg" title="{who} plays {role}"/>   
         </div>
 </div>
