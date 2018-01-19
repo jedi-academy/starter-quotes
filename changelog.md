@@ -16,3 +16,6 @@
 2017-01-16: Nathaniel Z - Added hover tooltip on images
 
 2017-01-17: Mark - Added Quote Display
+
+2017-01-18: Nathaniel Z - Modified Quote Display to include actor name, role and quote
+ 
