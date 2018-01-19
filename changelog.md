@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+
+## [0.0.7] - 2018-01-18
+##Added
+- added blue background  for image
+
+###Changed
+- centered image within div
+
+###Removed
+- removed clickable link from picture in actor.php
+
+
+
+
 ## [0.0.6] - 2018-01-18
 ###Added
 - added character role unique page
