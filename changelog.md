@@ -1,5 +1,11 @@
+## v0.3
+-----
+* Added tooltip for each image
+
 ## v0.2
 -----
-
 * Added John Hurt image and quote to project
-* Forked [starter-quotes ](https://github.com/jedi-academy/starter-quotes) repo
+
+## v0.1
+-----
+* Forked [starter-quotes](https://github.com/jedi-academy/starter-quotes) repo
