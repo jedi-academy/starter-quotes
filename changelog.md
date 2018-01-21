@@ -1,5 +1,9 @@
 ## v0.4
 -----
+* Formatted quote display
+
+## v0.4
+-----
 * Added functionality that that takes you to a new page containing only the
   picture you clicked on
 
