@@ -1,3 +1,8 @@
+## v0.4
+-----
+* Added functionality that that takes you to a new page containing only the
+  picture you clicked on
+
 ## v0.3
 -----
 * Added tooltip for each image
