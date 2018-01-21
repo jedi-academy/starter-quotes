@@ -48,7 +48,5 @@ class Welcome extends Application
                
                
        }
-       
-       
-
 }
+?>
