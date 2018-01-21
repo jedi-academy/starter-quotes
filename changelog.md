@@ -5,6 +5,11 @@ This project displays images of 6 actors from the movie "Space Balls".
 ---Change Log---
 +oldest to newest+
 
+--01/21/2018
+rost; added actor file; modified file to display pic, name and role
+rost; resolving conflicts
+
+
 --01/16/2018--
 
 Rost: added branch develop
